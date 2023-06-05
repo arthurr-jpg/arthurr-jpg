@@ -4,7 +4,7 @@
 ### My name is Arthur Sales, I graduated in computer science from Faculdade Pitágoras in 2019. I have been working with java and databases since 2018.
 
 <div align="center">
-   <img width="45.5%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arthurr-jpg&show_icons=true&theme=highcontrast">
+   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arthurr-jpg&show_icons=true&theme=highcontrast">
    <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurr-jpg&hide_progress=true&theme=highcontrast">
 </div>
 
