@@ -17,4 +17,6 @@
 </div>
 
 
-
+<div align="center"><br>
+<img alt="hacking" src="https://github.com/jglovier/gifs/blob/gh-pages/hacking/typity-type.gif"><br>
+</div>
