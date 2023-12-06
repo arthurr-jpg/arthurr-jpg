@@ -3,9 +3,8 @@
 
 ### My name is Arthur Sales, I graduated in computer science from Faculdade Pitágoras in 2019.
 
-<div align="center">
-   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arthurr-jpg&show_icons=true&theme=highcontrast">
-   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurr-jpg&hide_progress=true&theme=highcontrast&PAT_1">
+<div align="left">
+<img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurr-jpg&hide_progress=true&theme=highcontrast&PAT_1">
 </div>
 
 <h2 allign="center"> Skills:</h2>
