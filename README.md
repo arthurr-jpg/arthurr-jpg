@@ -7,7 +7,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurr-jpg&layout=compact&theme=highcontrast" alt="Top Languages">
 </div>
 
-<h2 allign="center"> Skills:</h2>
+<h2 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CCF817&random=false&width=500&height=40&lines=Skills." alt="Typing SVG" /></a></h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Arthur-Java" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Arthur-MySQL" height="90" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
