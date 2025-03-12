@@ -20,5 +20,3 @@
    <img align="center" alt="Arthur-Git" height="90" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 </div>
 
-
-.
