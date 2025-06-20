@@ -4,7 +4,7 @@
 
 
 <div align="left">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurr-jpg&layout=compact&theme=highcontrast" alt="Top Languages">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurr-jpg&layout=compact&theme=blue-green" alt="Top Languages">
 </div>
 
 <h2 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CCF817&random=false&width=500&height=40&lines=Skills." alt="Typing SVG" /></a></h2>
