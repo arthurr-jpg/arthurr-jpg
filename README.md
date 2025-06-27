@@ -1,4 +1,4 @@
-### Hi there 👋;
+### Hi there 👋
 
 <!-- GIF DO GATINHO -->
 <img src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAd/ghostedvpn-hacker-cat.gif" width="300" />
