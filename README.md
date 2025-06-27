@@ -7,7 +7,7 @@
 <br>
 
 <!-- TOP LANGUAGES -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurr-jpg&layout=compact&theme=codeSTACKr" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurr-jpg&layout=compact&theme=default" alt="Top Languages" />
 
 <!-- Espaço -->
 <br>
