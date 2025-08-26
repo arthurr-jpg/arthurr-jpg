@@ -1,13 +1,24 @@
-### Hi there 👋
-
-<!-- GIF DO GATINHO -->
-<img src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAd/ghostedvpn-hacker-cat.gif" width="300" />
-
-<!-- Espaço -->
-<br>
-
-<!-- TOP LANGUAGES -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurr-jpg&layout=compact&theme=default" alt="Top Languages" />
+ <table>
+  <tr>
+    <td align="center">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CCF817&random=false&width=500&height=40&lines=Welcome." alt="Typing SVG" />
+      <a href="https://git.io/typing-svg">
+      </a>
+      <br/>
+      <img src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAd/ghostedvpn-hacker-cat.gif" width="350" />
+    </td>
+    <td valign="top">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CCF817&random=false&width=500&height=40&lines=About." alt="Typing SVG" />
+      Graduated in Computer Science, focusing on backend technologies, and passionate about everything that involves technology.
+       <br><br>
+       <br><br>
+       <br><br>
+       <br><br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurr-jpg&layout=compact&theme=default" alt="Top Languages" >
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!-- Espaço -->
 <br>
