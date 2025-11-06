@@ -40,4 +40,5 @@
   <img alt="Arthur-Postman" height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" />
   <img alt="Arthur-Hibernate" height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original-wordmark.svg" />
   <img alt="Arthur-AWS" height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img alt="Arthur-LINUX" height="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 </p>
