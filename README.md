@@ -14,7 +14,7 @@
        <br><br>
        <br><br>
        <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurr-jpg&layout=compact&theme=dracula" alt="Top Languages" >
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurr-jpg&layout=compact&theme=monokai" alt="Top Languages" >
       </p>
     </td>
   </tr>
