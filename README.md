@@ -15,8 +15,6 @@ Throughout my career, I have accumulated experience in projects involving the de
   <br>  I enjoy facing technical challenges and am always looking to learn new technologies and best development practices. I believe that code quality and teamwork are fundamental to building solutions that truly add value.
        <br><br>
        <br><br>
-       <br><br>
-       <br><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurr-jpg&layout=compact&theme=dracula" alt="Top Languages" >
       </p>
     </td>
