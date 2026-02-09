@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CCF817&random=false&width=500&height=40&lines=Welcome." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=CCF817&random=false&width=600&height=70&lines=Welcome." alt="Typing SVG" />
       <a href="https://git.io/typing-svg">
       </a>
       <br/>
