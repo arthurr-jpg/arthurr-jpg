@@ -22,7 +22,7 @@ Throughout my career, I have accumulated experience in projects involving the de
 
 <!-- Linguagens e Ferramentas -->
 <br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF41&random=false&width=600&height=60&lines=Linguagens+e+Ferramentas" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF41&random=false&width=600&height=60&lines=Languages+and+Tools" alt="Typing SVG" />
 <br><br>
 <p>
   <img alt="Java" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
