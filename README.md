@@ -26,7 +26,6 @@ Throughout my career, I have accumulated experience in projects involving the de
 <br><br>
 <p>
   <img alt="Java" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-  <img alt="Go" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
   <img alt="JavaScript" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
   <img alt="MySQL" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
   <img alt="Maven" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" />
