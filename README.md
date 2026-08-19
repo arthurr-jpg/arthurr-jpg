@@ -13,10 +13,3 @@
 Throughout my career, I have accumulated experience in projects involving the development of robust applications, implementation of functionalities, bug resolution, and creation of unit and integration tests. I am familiar with technologies such as Spring Boot, PL/SQL, Docker, Angular, Apache Maven, and Hibernate.<br>
   
   <br>  I enjoy facing technical challenges and am always looking to learn new technologies and best development practices. I believe that code quality and teamwork are fundamental to building solutions that truly add value.
-       <br><br>
-       <br><br>
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=arthurr-jpg&layout=compact&theme=dracula" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
