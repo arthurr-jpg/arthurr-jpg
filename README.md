@@ -20,16 +20,3 @@ Throughout my career, I have accumulated experience in projects involving the de
   </tr>
 </table>
 
-<!-- Linguagens e Ferramentas -->
-<br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF41&random=false&width=600&height=60&lines=Languages+and+Tools" alt="Typing SVG" />
-<br><br>
-<p>
-  <img alt="Java" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-  <img alt="JavaScript" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-  <img alt="MySQL" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-  <img alt="Maven" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" />
-  <img alt="Hibernate" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" />
-  <img alt="Postman" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" />
-  <img alt="Linux" height="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-</p>
