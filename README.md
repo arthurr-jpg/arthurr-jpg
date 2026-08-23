@@ -1,14 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2b4e55,50:4b775e,100:6d9471&text=Arthur%20Sales&fontColor=f4f7f5&fontSize=56&desc=Backend%20Developer%20%7C%20Linux%20%26%20Omarchy%20Tinkerer&descAlignY=65&descSize=18&animation=fadeIn" alt="Arthur Sales banner" width="100%" />
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/arthurr-jpg?style=for-the-badge&label=Followers" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Location-Brazil-4b775e?style=for-the-badge" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-Java%20%2F%20Spring%20Boot-2b4e55?style=for-the-badge" alt="Focus" />
-</p>
-
-# Arthur Sales
 
 ## About me
 
