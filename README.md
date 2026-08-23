@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:2b4e55,100:4b775e&text=Arthur%20Sales&fontColor=e3eadf&fontSize=56&desc=Backend%20Developer%20%7C%20Linux%20%26%20Omarchy%20Tinkerer&descAlignY=65&descSize=18" alt="Arthur Sales banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2b4e55,50:4b775e,100:6d9471&text=Arthur%20Sales&fontColor=f4f7f5&fontSize=56&desc=Backend%20Developer%20%7C%20Linux%20%26%20Omarchy%20Tinkerer&descAlignY=65&descSize=18&animation=fadeIn" alt="Arthur Sales banner" width="100%" />
 </p>
 
 <p align="center">
@@ -29,37 +29,59 @@ Backend developer graduated in Computer Science, currently building an ATS platf
 
 ## Featured repositories
 
-### Frieren Theme
+<p>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-2ea44f?style=for-the-badge&labelColor=1e2327" />
+  <img src="https://img.shields.io/badge/TYPE-THEME-2b4e55?style=for-the-badge&labelColor=1e2327" />
+  <img src="https://img.shields.io/badge/FOCUS-FRIEREN%20ANIME%20PALETTE-c17a3d?style=for-the-badge&labelColor=1e2327" />
+</p>
 
-An Omarchy theme inspired by *Frieren: Beyond Journey's End*, with a palette pulled straight from the anime's cold blues, forest greens and grayish whites.
+<table>
+<tr>
+<td width="55%">
+  <a href="https://github.com/arthurr-jpg/omarchy-frieren-theme">
+    <img src="https://raw.githubusercontent.com/arthurr-jpg/omarchy-frieren-theme/master/screenshots/screenshot1.png" alt="Frieren Theme preview" width="100%" />
+  </a>
+</td>
+<td width="45%" valign="top">
+  <h3>Frieren Theme</h3>
+  <p>An Omarchy theme inspired by <i>Frieren: Beyond Journey's End</i>, with a palette pulled straight from the anime's cold blues, forest greens and grayish whites.</p>
+  <p><b>Repo:</b> <code>omarchy-frieren-theme</code><br/>
+  <b>Highlight:</b> Full desktop coverage — Hyprland, Waybar, Walker, SwayOSD, GTK, Neovim, btop, Mako — plus three original wallpapers and Omarchy Quattro/Quickshell support.</p>
+  <p>
+    <img src="https://img.shields.io/github/stars/arthurr-jpg/omarchy-frieren-theme?style=flat-square&label=stars&labelColor=1e2327&color=2b4e55" />
+    <img src="https://img.shields.io/github/last-commit/arthurr-jpg/omarchy-frieren-theme?style=flat-square&label=last%20commit&labelColor=1e2327&color=4b775e" />
+  </p>
+  <p><a href="https://github.com/arthurr-jpg/omarchy-frieren-theme"><img src="https://img.shields.io/badge/VIEW%20ON-GITHUB-1e2327?style=for-the-badge&logo=github&logoColor=white" /></a></p>
+</td>
+</tr>
+</table>
 
-![Status](https://img.shields.io/badge/Status-Active-2b4e55?style=for-the-badge)
-![Type](https://img.shields.io/badge/Type-Omarchy%20Theme-4b775e?style=for-the-badge)
-![Compat](https://img.shields.io/badge/Compatible-Quattro%20%2F%20Quickshell-6b8276?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-2ea44f?style=for-the-badge&labelColor=1e2327" />
+  <img src="https://img.shields.io/badge/TYPE-THEME-3dd9a0?style=for-the-badge&labelColor=1e2327" />
+  <img src="https://img.shields.io/badge/LICENSE-MIT-60c8f0?style=for-the-badge&labelColor=1e2327" />
+</p>
 
-Repo: [`omarchy-frieren-theme`](https://github.com/arthurr-jpg/omarchy-frieren-theme)
-Covers Hyprland, Hyprlock, Waybar, Walker, SwayOSD, GTK, Neovim, btop and Mako, plus three original wallpapers.
-
-[![Stars](https://img.shields.io/github/stars/arthurr-jpg/omarchy-frieren-theme?style=flat-square)](https://github.com/arthurr-jpg/omarchy-frieren-theme/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/arthurr-jpg/omarchy-frieren-theme?style=flat-square)](https://github.com/arthurr-jpg/omarchy-frieren-theme/commits)
-
-[View on GitHub](https://github.com/arthurr-jpg/omarchy-frieren-theme)
-
-### Frankenstein Theme
-
-A dark Omarchy theme built around two Frankenstein wallpapers — teal from the creature, blue from the castle lightning, amber from the torches.
-
-![Status](https://img.shields.io/badge/Status-Active-1a3020?style=for-the-badge)
-![Type](https://img.shields.io/badge/Type-Omarchy%20Theme-3dd9a0?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-60c8f0?style=for-the-badge)
-
-Repo: [`frankenstein-theme-for-omarchy`](https://github.com/arthurr-jpg/frankenstein-theme-for-omarchy)
-Covers Waybar, Hyprland/Hyprlock, Alacritty, Mako, Walker, btop, Neovim colorscheme and GTK, with a one-command `install.sh`.
-
-[![Stars](https://img.shields.io/github/stars/arthurr-jpg/frankenstein-theme-for-omarchy?style=flat-square)](https://github.com/arthurr-jpg/frankenstein-theme-for-omarchy/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/arthurr-jpg/frankenstein-theme-for-omarchy?style=flat-square)](https://github.com/arthurr-jpg/frankenstein-theme-for-omarchy/commits)
-
-[View on GitHub](https://github.com/arthurr-jpg/frankenstein-theme-for-omarchy)
+<table>
+<tr>
+<td width="55%">
+  <a href="https://github.com/arthurr-jpg/frankenstein-theme-for-omarchy">
+    <img src="https://raw.githubusercontent.com/arthurr-jpg/frankenstein-theme-for-omarchy/main/screenshots/main-desktop.png" alt="Frankenstein Theme preview" width="100%" />
+  </a>
+</td>
+<td width="45%" valign="top">
+  <h3>Frankenstein Theme</h3>
+  <p>A dark Omarchy theme built around two Frankenstein wallpapers — teal from the creature, blue from the castle lightning, amber from the torches.</p>
+  <p><b>Repo:</b> <code>frankenstein-theme-for-omarchy</code><br/>
+  <b>Highlight:</b> Full desktop coverage with a one-command <code>install.sh</code> — Waybar, Hyprland/Hyprlock, Alacritty, Mako, Walker, btop, Neovim colorscheme and GTK.</p>
+  <p>
+    <img src="https://img.shields.io/github/stars/arthurr-jpg/frankenstein-theme-for-omarchy?style=flat-square&label=stars&labelColor=1e2327&color=1a3020" />
+    <img src="https://img.shields.io/github/last-commit/arthurr-jpg/frankenstein-theme-for-omarchy?style=flat-square&label=last%20commit&labelColor=1e2327&color=3dd9a0" />
+  </p>
+  <p><a href="https://github.com/arthurr-jpg/frankenstein-theme-for-omarchy"><img src="https://img.shields.io/badge/VIEW%20ON-GITHUB-1e2327?style=for-the-badge&logo=github&logoColor=white" /></a></p>
+</td>
+</tr>
+</table>
 
 ---
 
