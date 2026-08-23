@@ -130,4 +130,3 @@ Use the target repository's Issues page and include:
 
 ---
 
-*"It took a long time to learn the magic that makes flowers bloom." — Frieren*
