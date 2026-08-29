@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b4e55,50:4b775e,100:6d9471&height=220&section=header&text=Arthur%20Sales&fontSize=56&fontColor=f4f7f5&fontAlignY=38&desc=Backend%20Developer%20%7C%20Linux%20%26%20Omarchy%20Tinkerer&descAlignY=65&descSize=18&animation=fadeIn" alt="Arthur Sales banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2b4e55,50:4b775e,100:6d9471&text=Arthur%20Sales&fontColor=f4f7f5&fontSize=56&desc=Backend%20Developer%20%7C%20Linux%20%26%20Omarchy%20Tinkerer&descAlignY=65&descSize=18&animation=fadeIn" alt="Arthur Sales banner" width="100%" />
 </p>
 
 <p align="center">
@@ -39,9 +39,7 @@ Backend developer graduated in Computer Science, currently building an ATS platf
 <tr>
 <td width="55%">
   <a href="https://github.com/arthurr-jpg/omarchy-frieren-theme">
-    <div style="height:260px; overflow:hidden; border-radius:6px;">
-      <img src="https://raw.githubusercontent.com/arthurr-jpg/omarchy-frieren-theme/master/screenshots/screenshot1.png" alt="Frieren Theme preview" style="width:100%; height:100%; object-fit:cover; object-position:center;" />
-    </div>
+    <img src="https://raw.githubusercontent.com/arthurr-jpg/omarchy-frieren-theme/master/screenshots/screenshot1.png" alt="Frieren Theme preview" width="100%" />
   </a>
 </td>
 <td width="45%" valign="top">
@@ -68,9 +66,7 @@ Backend developer graduated in Computer Science, currently building an ATS platf
 <tr>
 <td width="55%">
   <a href="https://github.com/arthurr-jpg/frankenstein-theme-for-omarchy">
-    <div style="height:260px; overflow:hidden; border-radius:6px;">
-      <img src="https://raw.githubusercontent.com/arthurr-jpg/frankenstein-theme-for-omarchy/main/screenshots/main-desktop.png" alt="Frankenstein Theme preview" style="width:100%; height:100%; object-fit:cover; object-position:center;" />
-    </div>
+    <img src="https://raw.githubusercontent.com/arthurr-jpg/frankenstein-theme-for-omarchy/main/screenshots/main-desktop.png" alt="Frankenstein Theme preview" width="100%" />
   </a>
 </td>
 <td width="45%" valign="top">
