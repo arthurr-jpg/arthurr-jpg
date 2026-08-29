@@ -1,4 +1,14 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b4e55,50:4b775e,100:6d9471&height=220&section=header&text=Arthur%20Sales&fontSize=56&fontColor=f4f7f5&fontAlignY=38&desc=Backend%20Developer%20%7C%20Linux%20%26%20Omarchy%20Tinkerer&descAlignY=65&descSize=18&animation=fadeIn" alt="Arthur Sales banner" width="100%" />
+</p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/arthurr-jpg?style=for-the-badge&label=Followers" alt="GitHub followers" />
+  <img src="https://img.shields.io/badge/Location-Brazil-4b775e?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Focus-Java%20%2F%20Spring%20Boot-2b4e55?style=for-the-badge" alt="Focus" />
+</p>
+
+# Arthur Sales
 
 ## About me
 
@@ -29,7 +39,9 @@ Backend developer graduated in Computer Science, currently building an ATS platf
 <tr>
 <td width="55%">
   <a href="https://github.com/arthurr-jpg/omarchy-frieren-theme">
-    <img src="https://raw.githubusercontent.com/arthurr-jpg/omarchy-frieren-theme/master/screenshots/screenshot1.png" alt="Frieren Theme preview" width="100%" />
+    <div style="height:260px; overflow:hidden; border-radius:6px;">
+      <img src="https://raw.githubusercontent.com/arthurr-jpg/omarchy-frieren-theme/master/screenshots/screenshot1.png" alt="Frieren Theme preview" style="width:100%; height:100%; object-fit:cover; object-position:center;" />
+    </div>
   </a>
 </td>
 <td width="45%" valign="top">
@@ -56,7 +68,9 @@ Backend developer graduated in Computer Science, currently building an ATS platf
 <tr>
 <td width="55%">
   <a href="https://github.com/arthurr-jpg/frankenstein-theme-for-omarchy">
-    <img src="https://raw.githubusercontent.com/arthurr-jpg/frankenstein-theme-for-omarchy/main/screenshots/main-desktop.png" alt="Frankenstein Theme preview" width="100%" />
+    <div style="height:260px; overflow:hidden; border-radius:6px;">
+      <img src="https://raw.githubusercontent.com/arthurr-jpg/frankenstein-theme-for-omarchy/main/screenshots/main-desktop.png" alt="Frankenstein Theme preview" style="width:100%; height:100%; object-fit:cover; object-position:center;" />
+    </div>
   </a>
 </td>
 <td width="45%" valign="top">
@@ -130,3 +144,4 @@ Use the target repository's Issues page and include:
 
 ---
 
+*"It took a long time to learn the magic that makes flowers bloom." — Frieren*
